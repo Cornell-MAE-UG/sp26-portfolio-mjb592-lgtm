@@ -42,4 +42,4 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
+baseurl: "/<sp26-portfolio-mjb592-lgtm>/"
